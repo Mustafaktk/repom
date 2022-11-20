@@ -1,1 +1,2 @@
-Bu benim ilk repom şuan frontend yazılım öğreniyorum
+# Bu benim ilk repom
+## Frontend yazılım öğreniyorum
