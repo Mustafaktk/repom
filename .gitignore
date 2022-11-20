@@ -1,0 +1,12 @@
+# log
+*.log
+*.main.scss
+
+# img
+*.img
+*.jpg
+*.png
+
+# video
+*.mp4
+
