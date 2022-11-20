@@ -1,2 +1,2 @@
-# Bu benim ilk repom
-## Frontend yazılım öğreniyorum
+# Merhabal ben Mustafa  
+##  Şuan baktığınız şey benim ilk repom frontend yazılım öğreniyorum
