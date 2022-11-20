@@ -1,0 +1,1 @@
+Bu benim ilk repom şuan frontend yazılım öğreniyorum
